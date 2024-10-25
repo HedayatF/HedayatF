@@ -2,7 +2,7 @@
 HedayatF/HedayatF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Fatemeh Hedayat
+# Hi there, Welcome to my GitHub Profile! 🙋
 
 ### Welcome to my GitHub Profile! 👋
 - 💻 a passionate student (BSc in Molecular and Cellular Biology), with a strong background in computational biology and bioinformatics. (R, Python, etc.)
