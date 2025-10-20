@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there, Welcome to my GitHub Profile! 👋
 
-- 💭 A curious student with a deep love for bioinformatics and cancer research (B.S. in Molecular and Cellular Biology).
+- 💭 A curious student with a deep love for bioinformatics and cancer research (Currently a Master's student - Molecular Biology of the cell at the University of Milan).
 - 💡 A firm believer in project-based learning, with several [international conference abstracts](https://www.researchgate.net/profile/Fatemeh-Hedayat-2) related to cancer biology and bioinformatics.
 - 💠 Passionate about working with multi-omics data and the intersections of immunology, and epigenetics in cancer research.
 - 🧬 Currently investigating T cell exhaustion and its epigenetic regulation by analyzing scRNA-seq data.
