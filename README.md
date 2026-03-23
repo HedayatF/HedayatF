@@ -7,9 +7,8 @@ You can click the Preview link to take a look at your changes.
 - 💭 A curious student with a deep love for bioinformatics and cancer research (Currently a Master's student - Molecular Biology of the cell at the University of Milan).
 - 💡 A firm believer in project-based learning, with several [international conference abstracts](https://www.researchgate.net/profile/Fatemeh-Hedayat-2) related to cancer biology and bioinformatics.
 - 💠 Passionate about working with multi-omics data and the intersections of immunology, and epigenetics in cancer research.
-- 🧬 Currently investigating T cell exhaustion and its epigenetic regulation by analyzing scRNA-seq data.
 
-- 🤝 If you're looking to collaborate or just want to chat, feel free to reach out—I’m always up for a good conversation!
+- 🤝 If you're looking to collaborate or just want to chat, feel free to reach out, I’m always up for a good conversation!
 - 📫 How to reach me: Fatemeh.hedayat3@gmail.com
 
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/FatemehHedayat)
